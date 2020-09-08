@@ -1,0 +1,49 @@
+.navbar{
+    background-color: #FFFFFF !important;
+}
+.resNav{
+    margin:0px 15px 0px 0px;
+}
+.carosuelArea{
+    border-radius: 23px;
+}
+.bannerButton {
+    background-image: linear-gradient(#FF589B, #FF5891);
+    color: white;
+    border-radius: 7px;
+    border: 0px;
+    padding:7px 20px;
+    font-weight:bold;
+}
+.bannerPrice{
+    color:#FF136F;
+}
+.carosuelBg{
+    background-color: #FEEAE9;
+}
+.carousel-inner{
+    padding:20px 40px;
+}
+.bannerP{
+    font-size: 18px;
+}
+.categoriesBg{
+    background-image:linear-gradient(#FF9D35, #FFCA1C)
+}
+.categoriesArea {
+    margin-top:40px;
+}
+
+.categoriesArea h2{
+    font-size: 30px;
+    margin-bottom: 23px;
+}
+.categoriesArea img{
+    width:110px;
+    padding:5px 5px;
+}
+.categoriesArea h1{
+    color: white;
+    padding:0px 15px;
+    font-size:30px;
+}
