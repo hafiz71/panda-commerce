@@ -66,8 +66,28 @@
     color:orange;
     font-size:22px;
 }
+.bagArea{
+    padding-bottom:100px;
+}
 .card-footer{
     border-top:none;
     background-color: #FFFFFF;
     text-align:center;
+}
+.subscribeArea{
+    margin-top:60px;
+    height:290px;
+    background-color:#FEEAE9;
+}
+.subButton{
+    border: 0px;
+    padding:7px 20px;
+    color:gray;
+}
+.subButton2{
+    background-image: linear-gradient(#FF408C, #FF408C);
+    color: white;
+    border: 0px;
+    padding:7px 20px;
+    font-weight:bold;
 }
